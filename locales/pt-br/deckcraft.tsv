@@ -69,17 +69,17 @@
 	Artistic\nEffects	Efeitos\nartísticos
 	As:	Como:
 	Audio from File…	Áudio de arquivo…
-	AutoCorrect	Correção automática
+	AutoCorrect	Autocorreção
 	AutoCorrect as you type	Corrigir automaticamente ao digitar
-	AutoCorrect Options…	Opções de correção automática…
+	AutoCorrect Options…	Opções de autocorreção…
 	Autofit	Ajuste automático
 	Automatic bulleted and numbered lists	Listas automáticas com marcadores e numeração
 	Available formats:	Formatos disponíveis:
 	Back	Voltar
 	Back (Esc)	Voltar (Esc)
 	Background\nStyles	Estilos de\nplano de fundo
-	Banded Columns	Colunas em faixas
-	Banded Rows	Linhas em faixas
+	Banded Columns	Colunas listradas
+	Banded Rows	Linhas listradas
 	Blank Presentation	Apresentação em branco
 	Body:	Corpo:
 	Bring\nForward	Trazer para\nfrente
@@ -154,7 +154,7 @@
 	Custom\nShow	Apresentação\npersonalizada
 	Customize Colors…	Personalizar cores…
 	Customize Fonts…	Personalizar fontes…
-	Customize Quick Access Toolbar	Personalizar a barra de ferramentas de acesso rápido
+	Customize Quick Access Toolbar	Personalizar a barra de acesso rápido
 	Dark appearance	Aparência escura
 	Dark Mode	Modo escuro
 	Dark\nMode	Modo\nescuro
@@ -192,7 +192,7 @@
 	Distribute Rows	Distribuir linhas
 	Distribute Vertically	Distribuir verticalmente
 	Distributed	Distribuído
-	Do not check spelling or grammar	Não verificar ortografia ou gramática
+	Do not check spelling or grammar	Não verificar ortografia nem gramática
 	Don't show on title slide	Não mostrar no slide de título
 	Double	Duplo
 	Draw Table	Desenhar tabela
@@ -250,7 +250,7 @@
 	From\nCurrent Slide	Do slide\natual
 	Go to	Ir para
 	Gradient bar	Barra de gradiente
-	Gradient stops	Paradas de gradiente
+	Gradient stops	Pontos de gradiente
 	Gradient…	Gradiente…
 	Grid Options	Opções de grade
 	Grid Options…	Opções de grade…
@@ -260,7 +260,7 @@
 	Handout Master	Folheto mestre
 	Handout Placeholders	Espaços reservados do folheto
 	Handout\nMaster	Folheto\nmestre
-	Hanging	Deslocamento
+	Hanging	Deslocado
 	Header &\nFooter	Cabeçalho e\nrodapé
 	Header and Footer	Cabeçalho e rodapé
 	Header and Footer…	Cabeçalho e rodapé…
@@ -281,11 +281,11 @@
 	Increase List Level	Aumentar nível da lista
 	Increase {label}	Aumentar {label}
 	Indentation	Recuo
-	Ink to Math (coming soon)	Tinta para matemática (em breve)
+	Ink to Math (coming soon)	Tinta para equação (em breve)
 	Ink to Shape	Tinta para forma
 	Ink to Shape: turn drawn lines, rectangles, ovals and triangles into shapes	Tinta para forma: transforma linhas, retângulos, elipses e triângulos desenhados em formas
 	Ink to Text (coming soon)	Tinta para texto (em breve)
-	Ink to\nMath	Tinta para\nmatemática
+	Ink to\nMath	Tinta para\nequação
 	Ink to\nShape	Tinta para\nforma
 	Ink to\nText	Tinta para\ntexto
 	Insert Above	Inserir acima
@@ -455,7 +455,7 @@
 	Program:	Programa:
 	Promote	Promover
 	Put a picture in the selected node's picture placeholder	Colocar uma imagem no espaço reservado de imagem do nó selecionado
-	Quick Access Toolbar	Barra de ferramentas de acesso rápido
+	Quick Access Toolbar	Barra de acesso rápido
 	Quick Styles	Estilos rápidos
 	Quick\nStyles	Estilos\nrápidos
 	Reading View	Modo de leitura
@@ -471,7 +471,7 @@
 	Remove All Sections	Remover todas as seções
 	Remove Animation	Remover animação
 	Remove bullets and numbering	Remover marcadores e numeração
-	Remove from Quick Access Toolbar	Remover da barra de ferramentas de acesso rápido
+	Remove from Quick Access Toolbar	Remover da barra de acesso rápido
 	Remove from Recent	Remover dos recentes
 	Remove Section	Remover seção
 	Remove Section & Slides	Remover seção e slides
@@ -637,7 +637,7 @@
 	Tile picture as texture	Repetir imagem como textura
 	Timing	Tempo
 	To slide:	Até o slide:
-	Total Row	Linha de total
+	Total Row	Linha de totais
 	Transition	Transição
 	Transitions	Transições
 	Translation needs a language model (not bundled)	A tradução requer um modelo de linguagem (não incluído)
@@ -663,8 +663,8 @@
 	Width ({abbr}):	Largura ({abbr}):
 	Width: 	Largura: 
 	Window title bar	Barra de título da janela
-	With	Com
-	With:	Com:
+	With	Por
+	With:	Por:
 	Wrap text in shape	Quebrar texto na forma
 	Wrap Text in Shape	Quebrar texto na forma
 	Your name (comments):	Seu nome (comentários):
