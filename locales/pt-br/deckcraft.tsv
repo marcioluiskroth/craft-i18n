@@ -167,7 +167,7 @@
 	DeckCraft prints through a PDF: it opens in your PDF viewer, where you choose the printer.	O DeckCraft imprime por meio de um PDF: ele é aberto no seu leitor de PDF, onde você escolhe a impressora.
 	Decrease List Level	Diminuir nível da lista
 	Decrease {label}	Diminuir {label}
-	Default tab stops (in):	Paradas de tabulação padrão (pol):
+	Default tab stops (in):	Tabulações padrão (pol):
 	Delay	Atraso
 	Delay:	Atraso:
 	Delete Columns	Excluir colunas
@@ -476,7 +476,7 @@
 	Remove Section	Remover seção
 	Remove Section & Slides	Remover seção e slides
 	Remove Shape	Remover forma
-	Remove stop	Remover parada
+	Remove stop	Remover ponto
 	Remove the picture style	Remover o estilo da imagem
 	Remove\nBackground	Remover\nplano de fundo
 	Rename Layout	Renomear layout
@@ -604,8 +604,8 @@
 	Start Automatically	Iniciar automaticamente
 	Start time (s):	Tempo inicial (s):
 	System language	Idioma do sistema
-	Tab stop position (in):	Posição da parada de tabulação (pol):
-	Tab stops:	Paradas de tabulação:
+	Tab stop position (in):	Posição da tabulação (pol):
+	Tab stops:	Tabulações:
 	Table Design	Design da tabela
 	Table Eraser	Borracha de tabela
 	Table Style Options	Opções de estilo de tabela
